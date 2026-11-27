@@ -4,6 +4,9 @@ An unsupervised-learning experiment that compares how well K-Means and Gaussian 
 Models recover the 10 CIFAR-10 classes from three feature sets: ImageNet-pretrained
 ResNet-50, OpenAI CLIP (ViT-B/32) image embeddings, and the two combined.
 
+**Project notebook:** [Open the complete Jupyter notebook](https://github.com/sachin2967/Image-Clustering/blob/main/code_cifar10_updated.ipynb).
+This is a reproducible notebook project rather than a hosted interactive application; see [Run](#run) for local execution.
+
 ## Method
 
 1. Load CIFAR-10 (train + test = 60,000 images) with torchvision.
