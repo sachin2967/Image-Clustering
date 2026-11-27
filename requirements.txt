@@ -1,0 +1,8 @@
+numpy
+torch
+torchvision
+transformers
+scikit-learn
+matplotlib
+opentsne
+jupyter
